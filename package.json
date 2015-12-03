@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "Workflow Examples",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Travis E Mikolay",
+  "license": "MIT"
+}
